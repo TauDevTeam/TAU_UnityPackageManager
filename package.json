@@ -1,21 +1,17 @@
 {
   "name": "com.tau.gloves",
-  "version": "1.2.3",
-  "displayName": "Package Example",
-  "description": "This is an example package",
-  "unity": "2019.1",
-  "unityRelease": "0b5",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": {
-    "com.[company-name].some-package": "1.0.0",
-    "com.[company-name].other-package": "2.0.0"
- },
+  "version": "0.0.1",
+  "displayName": "TAU Gloves SDK",
+  "description": "Digital hands for XR",
+  "unity": "2020.3",
+  "unityRelease": "18f1",
+  "documentationUrl": "https://www.tautracker.com/",
+  "changelogUrl": "https://www.tautracker.com/",
+  "licensesUrl": "https://www.tautracker.com/",
  "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+    "vr",
+    "input",
+    "hand"
   ],
   "author": {
     "name": "Unity",
